@@ -4,8 +4,8 @@ This is a [searchkit](http://www.searchkit.co/) based faceted search app for pre
 
 ##  Install instructions
 
-- git clone https://github.com/prefixcommons/ui-searchkit
-- cd ui-searchkit
+- git clone https://github.com/prefixcommons/prefixcommons-ui-searchkit
+- cd prefixcommons-ui-searchkit
 - yarn
 - npm start
 
